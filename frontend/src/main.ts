@@ -8,7 +8,7 @@ import 'vuetify/styles'
 import '@mdi/font/css/materialdesignicons.css'
 
 import App from './App.vue'
-import router from './router'
+import router from './router/index'
 
 // Vuetify theme configuration
 const vuetify = createVuetify({
